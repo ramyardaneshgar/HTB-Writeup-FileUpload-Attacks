@@ -1,5 +1,5 @@
-# HTB-Writeup-FileUpload-Attacks
-HackTheBox Writeup: File Upload Attacks with Burp Suite, Intruder, ffuf, exiftool, curl, wget, netcat, and PHP web shells.
+# FileUpload-Attacks
+File Upload Attacks with Burp Suite, Intruder, ffuf, exiftool, curl, wget, netcat, and PHP web shells.
 
 By Ramyar Daneshgar 
 
